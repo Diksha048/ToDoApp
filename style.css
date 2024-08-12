@@ -1,0 +1,23 @@
+
+.heading{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.div-container{
+    height: 250px;
+    overflow-y: scroll;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 10px;
+}
+#addtask{
+    width: 50%;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid #5c8a8a;
+}
